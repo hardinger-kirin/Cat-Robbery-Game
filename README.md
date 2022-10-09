@@ -10,6 +10,6 @@ Step 2: finished September 26. Some sound effects, music, smoother gameplay and 
 Step 3: finished October 3. Final version!
 
 To execute:
-Download the zip folder and extract. Run "Cat Robbery"
+Download the zip folder and extract. Run "Cat Robbery". Note that all builds are only for Windows systems!
 
 Thank you :)
